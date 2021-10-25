@@ -6,6 +6,11 @@ h1{
   color: white;
   font-weight: bolder;
 }
+
+.mg-container{
+  width: 65%;
+  margin: 0 auto;
+}
 .box{
   background-color: #1389B2;
   height: 100px;
@@ -16,4 +21,16 @@ h1{
   line-height: 100px;
   font-weight: bolder;
 
+}
+
+.fizz{
+  background-color: #0BD6A1;
+}
+
+.buzz{
+  background-color: #FFD166;
+}
+
+.fizzBuzz{
+  background-color: #F0466F;
 }
